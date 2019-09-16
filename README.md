@@ -1,4 +1,4 @@
-# Checkpoint-Mongo-DB-
+# Checkpoint-Mongo-DB
 The purpose of this checkpoint is to manipulate mongo CRUD operations
 
 Note :
